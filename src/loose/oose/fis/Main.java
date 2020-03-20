@@ -10,7 +10,7 @@ import loose.oose.fis.processors.ProcesorCompus;
 import java.util.ArrayList;
 
 public class Main {
-
+    //proiectFis
     public static void main(String[] args) {
 
         String[] xmlList = new String[6];
